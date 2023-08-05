@@ -1,0 +1,2 @@
+ALTER TABLE marketing_campaign_merged_data
+MODIFY Enrolled_Date DATE;
