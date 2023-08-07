@@ -8,7 +8,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="(https://powerbi.microsoft.com/en-ca/landing/free-account/?ef_id=_k_Cj0KCQjwrMKmBhCJARIsAHuEAPQwiHB39l3gUKv_Bg9bxRbbOg_g2cjYj8Ex8inrjEGdGWhNX_6rQP0aArd4EALw_wcB_k_&OCID=AIDcmmf49tiyrn_SEM__k_Cj0KCQjwrMKmBhCJARIsAHuEAPQwiHB39l3gUKv_Bg9bxRbbOg_g2cjYj8Ex8inrjEGdGWhNX_6rQP0aArd4EALw_wcB_k_&gclid=Cj0KCQjwrMKmBhCJARIsAHuEAPQwiHB39l3gUKv_Bg9bxRbbOg_g2cjYj8Ex8inrjEGdGWhNX_6rQP0aArd4EALw_wcB)" target="_blank" rel="noreferrer"> <img src="Microsoft-Power-BI-Symbol.png" alt="Power-BI" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://powerbi.microsoft.com/en-ca/" target="_blank" rel="noreferrer"> <img src="Microsoft-Power-BI-Symbol.png" alt="Power-BI" width="40" height="40"/> </a> </p>
 
 
 
