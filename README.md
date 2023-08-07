@@ -3,12 +3,12 @@
 
 ### 🌱 I’m currently learning **Python,Mysql,PowerBi**
 
-### 📫 How to reach me harshmunjalca@gmail.com   <img src="281769.png" alt="gmail" width="30" height="30"/>
-### 📫 How to reach me [Linkedin](https://www.linkedin.com/in/harsh-munjal/)   <img src="Linkedin.png" alt="linkedin" width="30" height="30"/>
+### 📫 How to reach me harshmunjalca@gmail.com   <img src="Snapshots/281769.png" alt="gmail" width="30" height="30"/>
+### 📫 How to reach me [Linkedin](https://www.linkedin.com/in/harsh-munjal/)   <img src="Snapshots/Linkedin.png" alt="linkedin" width="30" height="30"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://powerbi.microsoft.com/en-ca/" target="_blank" rel="noreferrer"> <img src="Microsoft-Power-BI-Symbol.png" alt="Power-BI" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://powerbi.microsoft.com/en-ca/" target="_blank" rel="noreferrer"> <img src="Snapshots/Microsoft-Power-BI-Symbol.png" alt="Power-BI" width="40" height="40"/> </a> </p>
 
 
 
@@ -254,7 +254,7 @@ GROUP BY Marital_Status;
 ### Step 8: Data Visualization in Power BI
 
 - Utilize Power BI to create insightful visualizations and reports based on the processed data.
-<p align="center"> <img src="Final Assignment.png" alt="mysql" width="600" height="500"/> </a> </p>
+<p align="center"> <img src="Snapshots/Final Assignment.png" alt="mysql" width="600" height="500"/> </a> </p>
 
 Feel free to explore the scripts in the repository to understand the implementation of each step in detail. For any questions or issues, please don't hesitate to open an issue or contact the repository owners.
 
