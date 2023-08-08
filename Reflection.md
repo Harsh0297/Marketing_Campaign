@@ -12,10 +12,10 @@ This marked the data loading phase, wherein I executed various groupings and vie
 
 Once the SQL phase was completed, an integration between SQL and Power BI was established through an ODBC connector. This connection enabled the seamless importation of SQL tables into Power BI for visualization purposes. Leveraging the fact and dimension tables, along with the views crafted earlier, I proceeded to generate impactful visualizations within Power BI.
 
-The culmination of this project involved creating a comprehensive Readme file on GitHub. This venture acquainted me with the Markdown language, allowing me to succinctly document and present my entire project. In conclusion, this project has not only augmented my proficiency in Python visuals, expanded my knowledge of SQL and Power BI, but has also introduced me to GitHub's ecosystem and its affiliated tools.
+The culmination of this project involved creating a comprehensive Readme file on GitHub. This venture acquainted me with the Markdown language, allowing me to succinctly document and present my entire project. In conclusion, this project has not only augmented my proficiency in Python visuals, and expanded my knowledge of SQL and Power BI, but has also introduced me to GitHub's ecosystem and its affiliated tools.
 
 I genuinely appreciate your invaluable guidance throughout this learning experience. Your unwavering support has contributed significantly to my growth and knowledge acquisition. I'm committed to maintaining an ongoing connection with you and seeking your guidance whenever needed. Thank you sincerely for your assistance and presence.
 
-Warm regards,
+Warm regards, 
 
 Harsh Munjal
